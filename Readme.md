@@ -75,20 +75,6 @@ T20_MATCH_ANALYSIS/
 - 📈 **Interactive filters** for players, teams, and roles
 - 🏆 **Dream XI creation** using data-driven insights
 
----
-
-## 📷 Dashboard Previews
-
-### 🔹 Final XI Selection
-
-![Final XI Selection](https://github.com/your-repo-link/screenshots/final11.png)
-
-### 🔹 Player Role Analysis
-
-![Player Role Analysis](https://github.com/your-repo-link/screenshots/player_analysis.png)
-
----
-
 ## ▶️ How to Run
 
 1. **Run Web Scraping (Optional, to refresh data)**
